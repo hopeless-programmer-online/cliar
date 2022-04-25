@@ -1,0 +1,21 @@
+{
+  "name": "cliar",
+  "version": "0.1.0",
+  "description": "Intermediate format for command line interfaces.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hopeless-programmer-online/cliar.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Hopeless Programmer",
+    "email": "me@hopeless-programmer.online",
+    "url": "https://hopeless-programmer.online"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hopeless-programmer-online/cliar/issues"
+  },
+  "homepage": "https://github.com/hopeless-programmer-online/cliar#readme"
+}
